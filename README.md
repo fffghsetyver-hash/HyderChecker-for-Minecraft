@@ -42,3 +42,9 @@ Recuva — для восстановления "случайно" удаленн
 Мультиязычность: Поддержка русского и английского языков (выбор при старте).
 
 Premium UI: Инновационный дизайн в стиле Cyberpunk/Neon с плавными анимациями, космосом и защитой от зависаний.
+
+
+<img width="1920" height="1027" alt="image" src="https://github.com/user-attachments/assets/926d6175-b62f-48ec-9e3b-e285bc986772" />
+<img width="1920" height="1027" alt="image" src="https://github.com/user-attachments/assets/fce9e42a-cc3f-4288-bf2b-ea77728e9cce" />
+
+
