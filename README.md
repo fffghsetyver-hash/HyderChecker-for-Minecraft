@@ -1,4 +1,4 @@
-https://cloud.onlysq.ru/file/CEDy \ https://cloud.onlysq.ru/file/CEDy / https://cloud.onlysq.ru/file/CEDy
+
 Собрали настоящего монстра, теперь нужно его красиво презентовать! Вот подробное и мощное описание для твоей программы. Его можно использовать для поста в Discord, описания на GitHub или инструкции для твоих модераторов.
 
 🛡️ HYPER SCANNER ULTIMATE
